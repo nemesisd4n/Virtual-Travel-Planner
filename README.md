@@ -1,6 +1,7 @@
+```markdown
 # Travel Planner Web Application
 
-Travel Planner is a web application that allows users to plan their trips to various destinations. It provides information about different travel destinations, including their names, descriptions, trip types, and recommendations. Users can select a destination, specify the duration of their trip, and get personalized trip recommendations. In this document, we will explain how to use the application and provide insights into how classes, switch statements, and try-catch-finally statements were utilized to enhance its functionality.
+Travel Planner is a web application that enables users to plan their trips to various destinations. It provides information about different travel destinations, including their names, descriptions, trip types, and recommendations. Users can select a destination, specify the duration of their trip, and get personalized trip recommendations. In this document, we will explain how to use the application and provide insights into how classes, switch statements, and try-catch-finally statements were utilized to enhance its functionality.
 
 ## How to Use Travel Planner
 
@@ -116,4 +117,4 @@ planTrip() {
 ### Conclusion
 
 The Travel Planner web application is designed with a strong foundation in classes, switch statements, and try-catch-finally statements. These programming concepts enhance the application's structure, user experience, and error-handling capabilities. They ensure that the application handles various scenarios gracefully, providing users with a smooth trip planning experience.
-
+```
