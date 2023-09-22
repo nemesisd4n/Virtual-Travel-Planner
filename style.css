@@ -1,0 +1,157 @@
+body {
+  background-image: url('https://images.pexels.com/photos/17366637/pexels-photo-17366637/free-photo-of-woman-on-hilltop-over-forest-under-clouds.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'); /* Replace 'your-image-path.jpg' with the actual path to your image */
+  background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    opacity: 0.9; 
+     
+}
+
+header {
+  background-color: #fff;
+  color: #000;
+  text-align: center;
+  padding: 20px;
+  opacity: 0.9; 
+
+}
+
+h1 {
+  margin: 0;
+}
+
+main {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.destinations {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: space-between;
+}
+
+.dest-card {
+  background-color: #f8f8f8;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 20px;
+  width: calc(33.33% - 20px);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  transition: transform 0.2s;
+}
+
+.dest-card:hover {
+  transform: scale(1.05);
+  transition: transform 0.2s;
+}
+
+.dest-card img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+
+.dest-card h3 {
+  margin-top: 10px;
+  color: #333;
+}
+
+  .trip-planner {
+    margin-top: 20px;
+  }
+
+label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+input#duration {
+  width: 97%; 
+}
+
+select,
+input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+  background-color: #000;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+button:hover {
+  background-color: #005fa3;
+  transform: scale(1.05);
+}
+
+#trip-result {
+  margin-top: 20px;
+  background-color: #f8f8f8;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  opacity: 0;
+  transform: translateY(-20px);
+  transition: opacity 0.3s ease, transform 0.3s ease;
+}
+
+#trip-result.show {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+#trip-result p,
+#trip-result h3 {
+    color: #333;
+}
+
+select {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #fff;
+  color: #333;
+  appearance: none; 
+}
+
+
+select::-ms-expand {
+  display: none; 
+}
+
+
+select option {
+  background-color: #fff;
+  color: #333;
+}
+
+
+select option:checked {
+  background-color: #007acc;
+  color: #fff;
+}
+
+
+

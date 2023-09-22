@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Virtual Travel Planner</title>
+</head>
+<body>
+    <header>
+        <h1>Welcome to the Virtual Travel Planner</h1>
+    </header>
+    <main>
+        <div class="destinations">
+           
+        </div>
+        <div class="trip-planner">
+            <h2>Plan Your Trip</h2>
+            <form id="trip-form">
+                <label for="destination">Destination:</label>
+                <select id="destination" required>
+                   
+                </select>
+                <label for="duration">Duration (days):</label>
+                <input type="number" id="duration" min="1" required>
+                <button type="submit">Plan Trip</button>
+            </form>
+            <div id="trip-result"></div>
+        </div>
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>
