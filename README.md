@@ -1,10 +1,5 @@
 # Travel Planner Web Application
 
-
-This document has provided a comprehensive overview of how classes, switch statements, and try-catch-finally statements were thoughtfully incorporated into the Travel Planner application. These additions improve the application's organization, user-friendliness, and robustness, ensuring that it effectively serves its purpose.
-
----
-
 Travel Planner is a web application that allows users to plan their trips to various destinations. It provides information about different travel destinations, including their names, descriptions, trip types, and recommendations. Users can select a destination, specify the duration of their trip, and get personalized trip recommendations. In this document, we will explain how to use the application and provide insights into how classes, switch statements, and try-catch-finally statements were utilized to enhance its functionality.
 
 ## How to Use Travel Planner
