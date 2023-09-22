@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Paris",
+        "image": "https://images.pexels.com/photos/1308940/pexels-photo-1308940.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "The capital of France is known for its romantic ambiance and iconic landmarks.",
+        "tripType": "Romantic",
+        "recommendations": ["Visit the Eiffel Tower", "Explore the Louvre Museum"]
+    },
+    {
+        "name": "Tokyo",
+        "image": "https://images.pexels.com/photos/1344545/pexels-photo-1344545.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "Tokyo is a bustling metropolis with a rich cultural heritage and modern skyscrapers.",
+        "tripType": "Cultural",
+        "recommendations": ["Try sushi at Tsukiji Fish Market", "Visit Senso-ji Temple"]
+    },
+    {
+        "name": "New York City",
+        "image": "https://images.pexels.com/photos/2190283/pexels-photo-2190283.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "The city that never sleeps offers iconic landmarks, Broadway shows, and diverse neighborhoods.",
+        "tripType": "City Exploration",
+        "recommendations": ["Visit Times Square", "Explore Central Park", "See the Statue of Liberty"]
+    },
+    {
+        "name": "Rome",
+        "image": "https://images.pexels.com/photos/2064827/pexels-photo-2064827.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "Rome is a city filled with history, art, and delicious Italian cuisine.",
+        "tripType": "Historical",
+        "recommendations": ["Visit the Colosseum", "Explore the Vatican Museums", "Try authentic pizza"]
+    },
+    {
+        "name": "Sydney",
+        "image": "https://images.pexels.com/photos/995765/pexels-photo-995765.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "Sydney is known for its stunning harbor, iconic Opera House, and beautiful beaches.",
+        "tripType": "Scenic",
+        "recommendations": ["Visit the Sydney Opera House", "Relax on Bondi Beach"]
+    },
+    {
+        "name": "Cairo",
+        "image": "https://images.pexels.com/photos/1369212/pexels-photo-1369212.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "Cairo is home to ancient wonders like the Pyramids and Sphinx.",
+        "tripType": "Historical",
+        "recommendations": ["Explore the Pyramids of Giza", "Visit the Egyptian Museum"]
+    },
+    {
+        "name": "Kyoto",
+        "image": "https://images.pexels.com/photos/356629/pexels-photo-356629.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "Kyoto is a city of temples, traditional tea houses, and beautiful cherry blossoms.",
+        "tripType": "Cultural",
+        "recommendations": ["Visit Kinkaku-ji (Golden Pavilion)", "Explore Fushimi Inari Shrine"]
+    },
+    {
+        "name": "Rio de Janeiro",
+        "image": "https://images.pexels.com/photos/17782050/pexels-photo-17782050/free-photo-of-clouds-and-hills-around-rio-de-janeiro.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "Rio de Janeiro offers beautiful beaches, vibrant culture, and the iconic Christ the Redeemer statue.",
+        "tripType": "Scenic",
+        "recommendations": ["Relax on Copacabana Beach", "Visit Christ the Redeemer"]
+    },
+    {
+        "name": "Cape Town",
+        "image": "https://images.pexels.com/photos/3736245/pexels-photo-3736245.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "Cape Town is known for its stunning landscapes, including Table Mountain and the Cape of Good Hope.",
+        "tripType": "Adventure",
+        "recommendations": ["Hike Table Mountain", "Visit the Cape of Good Hope"]
+    },
+    {
+        "name": "Barcelona",
+        "image": "https://images.pexels.com/photos/1388030/pexels-photo-1388030.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "Barcelona is famous for its unique architecture, including the Sagrada Familia.",
+        "tripType": "Cultural",
+        "recommendations": ["Visit the Sagrada Familia", "Explore Park Guell"]
+    },
+    {
+        "name": "Dubai",
+        "image": "https://images.pexels.com/photos/442579/pexels-photo-442579.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "Dubai is a city of modern skyscrapers, luxury shopping, and desert adventures.",
+        "tripType": "Luxury",
+        "recommendations": ["Visit the Burj Khalifa", "Go on a desert safari"]
+    },
+    {
+        "name": "Bali",
+        "image": "https://images.pexels.com/photos/2711640/pexels-photo-2711640.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "Bali offers beautiful beaches, lush rice terraces, and vibrant cultural experiences.",
+        "tripType": "Relaxation",
+        "recommendations": ["Relax on Seminyak Beach", "Explore Ubud"]
+    }
+]
