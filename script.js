@@ -117,11 +117,11 @@ class TravelPlanner {
                 <p>Trip Recommendations: ${tripRecommendations}</p>
             `;
     
-            this.tripResult.classList.add('show'); // Add the 'show' class for transition
+            this.tripResult.classList.add('show'); 
         } catch (error) {
             this.tripResult.textContent = 'Error: ' + error.message;
         } finally {
-            this.tripTypeSelect.value = 'Any'; // Reset the trip type dropdown
+            this.tripTypeSelect.value = 'Any';
         }
     }
     
